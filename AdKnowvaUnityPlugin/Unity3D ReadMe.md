@@ -3,13 +3,14 @@
 ## 공통 기본 요건
 - Unity 2020.3.25f1 이상 사용
 - Google Play Service 20.5.0 이상
-- Android Target API 31
+- Android Target API 33
+- Android minSDK 23
 
 
 ## 애드노바 설치 가이드
 ## Usage
 ### 1. AdKnowvaUnityPackage 및 SampleSource 다운로드
-- [AdKnowvaUnityPackage](https://github.com/Huvle-Ad/AdKnowva_SDK_KR/releases/tag/1.5.1)
+- [AdKnowvaUnityPackage](https://github.com/Huvle-Ad/AdKnowva_SDK_KR/releases/tag/1.5.3)
 
 ### 2. Unity Project Package import
 ![img1](./img/img1.png)
